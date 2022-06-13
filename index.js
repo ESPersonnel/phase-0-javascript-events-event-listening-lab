@@ -1,4 +1,3 @@
-// alert saying "I was clicked!"
 function addingEventListener(){
     var input = document.getElementById("input");
     input.addEventListener("click", function(){
